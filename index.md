@@ -14,7 +14,6 @@
 </head>
 
 <body>
-  <h1>TEST</h1>
   <h1>John Garner</h1>
   <!-- Place picture of myself below here -->
   <br>
