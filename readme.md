@@ -1,2 +1,10 @@
-# Website
-This website will be used as a portfolio to show off how wonderful I am.
+# John Garner
+My personal website, hard coded in HTML and CSS without any frameworks
+
+## Previews
+
+
+
+
+
+
