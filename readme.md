@@ -1,5 +1,5 @@
 # John Garner
-My personal website, hard coded in HTML and CSS without any frameworks
+Online portfolio, no frameworks and hard coded in HTML, CSS and Javascript.
 
 ## Preview
 
