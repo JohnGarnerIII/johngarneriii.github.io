@@ -1,5 +1,5 @@
 # John Garner III
-Online portfolio, no frameworks and hard coded in HTML & CSS.
+Main hub for my LinkedIn and GitHub
 
 ## Preview
 ![](other/preview.png)
